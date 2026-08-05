@@ -1,0 +1,25 @@
+# Simulation dumps
+*.vcd
+*.vpd
+*.fsdb
+*.shm/
+
+# Compiled simulation
+simv
+simv.daidir/
+csrc/
+
+# Synopsys
+*.log
+*.svf
+alib-52/
+work/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
