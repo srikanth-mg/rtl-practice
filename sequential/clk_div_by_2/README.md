@@ -5,3 +5,6 @@ Constraints:
 2) 50% duty cycle
 3) Active-low async reset behaviour
 
+Approach:
+Just toggle the output for every positive edge of the flop since it's posedge triggered device. 
+
