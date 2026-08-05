@@ -36,4 +36,7 @@ Each problem folder contains:
 ## Author
 
 Srikanth Muthuvel Ganthimathi
->>>>>>> e5a43def32657fec8cfb523ed4a482c8c6b0de87
+A recent grad with M.S. ECE
+
+If you have any queries/issues with the code/approach, contact me: mgsrikanth2404@gmail.com
+
